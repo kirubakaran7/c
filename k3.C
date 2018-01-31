@@ -8,11 +8,11 @@ void main()
 	printf("Enter a character: ");
 	scanf("%c",&ch);
 	{
-		printf("%c is an alphabet",ch);
+		printf("%c it is an alphabet",ch);
 	}
 	else
 	{
-		printf("%c is not an alphabet",ch);
+		printf("%c it is not an alphabet",ch);
 	}
 	getch();
 }
