@@ -27,7 +27,7 @@ printf("enter the elements");
   {
     if(a[i]==a[j])
     {
-      printf("the meddle element is %d",a[j]);
+      printf("the median element is %d",a[j]);
     }
   }
   return 0;
